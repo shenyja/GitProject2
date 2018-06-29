@@ -1,4 +1,4 @@
-import random
+﻿import random
 游戏机会不超过三次！
 print('---------我爱浩浩----------')
 
